@@ -21,7 +21,6 @@ $aluno = array(
 );
 echo "<hr>";
 print_r($aluno);
-echo "<hr>";
 
 $cafe = ["Tapioca", "Queijo", "Presunto", "Carreteiro", "Iogurte", "Café"];
 echo "<hr>";
