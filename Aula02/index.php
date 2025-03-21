@@ -12,17 +12,16 @@ $aluno = array(
         "nome" => "Rafael",
         "curso" =>"ADS",
         "cidade" => "Poa"
-    ]
+    ],
     [
         "nome" => "João",
         "curso" =>"ADS",
         "cidade" => "Poa"
-    ]
+    ],
 );
 echo "<hr>";
 print_r($aluno);
 echo "<hr>";
-echo $aluno["nome"];
 
 $cafe = ["Tapioca", "Queijo", "Presunto", "Carreteiro", "Iogurte", "Café"];
 echo "<hr>";
